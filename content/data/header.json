@@ -10,7 +10,8 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": "logo-image"
+        "elementId": "logo-image",
+        "url": "/images/BrandCircle Horizontal Logo.svg"
     },
     "primaryLinks": [
         {
