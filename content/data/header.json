@@ -1,13 +1,17 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ],
+                "borderWidth": 0
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "logo-image",
+        "url": "/images/sanity-logo.svg"
     },
     "primaryLinks": [
         {
