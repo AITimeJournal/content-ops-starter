@@ -7,7 +7,7 @@ sections:
       text: Grow your personal brand
       color: text-dark
       type: TitleBlock
-    subtitle: Turn your knowledge into opportunities that build your reputation.
+    subtitle: ''
     text: >
       BrandCircle.ai helps experts showcase their expertise, connect with
       others, and create new opportunities effortlessly.
