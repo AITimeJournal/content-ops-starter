@@ -8,9 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Turn your knowledge into opportunities that build your reputation.
-    text: |+
-      Turn your knowledge into opportunities that build your reputation.
-
+    text: ''
     actions:
       - label: Get started
         altText: ''
