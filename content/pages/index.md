@@ -27,7 +27,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This isa badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
