@@ -8,8 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Turn your knowledge into opportunities that build your reputation.
-    text: |
-      DESCRIPTION
+    text: >
+      BrandCircle.ai provides a space for experts to showcase their knowledge,
+      connect with others, and build meaningful opportunities. Designed to
+      simplify personal branding, our platform helps you focus on what matters
+      most—sharing your expertise and making an impact.
     actions:
       - label: Get started
         altText: ''
