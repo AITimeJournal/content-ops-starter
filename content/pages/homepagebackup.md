@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Homebackup
+title: Homeback up
 sections:
   - type: GenericSection
     title:
