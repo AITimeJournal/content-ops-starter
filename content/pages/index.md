@@ -7,7 +7,7 @@ sections:
       text: Grow your personal brand
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: Turn your knowledge into opportunities that build your reputation.
     text: |+
       Turn your knowledge into opportunities that build your reputation.
 
