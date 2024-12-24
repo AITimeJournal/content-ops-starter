@@ -153,7 +153,7 @@ sections:
       - url: /images/ai_frontier_network_logo.jpeg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/AI-TIme-Journal-Logo-Square-Transparent-01.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
