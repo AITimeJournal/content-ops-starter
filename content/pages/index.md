@@ -157,7 +157,7 @@ sections:
         type: ImageBlock
       - altText: AI Time Journal logo
         type: ImageBlock
-        url: /images/ai-time-journal-logo.png
+        url: /images/Untitled design.svg
       - altText: Contentful logo
         type: ImageBlock
       - altText: Sanity logo
