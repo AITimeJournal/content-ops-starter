@@ -150,10 +150,10 @@ sections:
         textAlign: center
   - subtitle: Our Partners
     images:
+      - altText: Vise logo
+        type: ImageBlock
       - url: /images/2.svg
         altText: AIFN logo
-        type: ImageBlock
-      - altText: Vise logo
         type: ImageBlock
       - altText: AI Time Journal logo
         type: ImageBlock
