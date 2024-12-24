@@ -209,7 +209,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Stand out in your field with a platform that works for you
       color: text-dark
       styles:
         self:
