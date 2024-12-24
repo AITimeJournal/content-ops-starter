@@ -49,7 +49,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Turn your knowledge into opportunities that build your reputation.
     items:
       - type: FeaturedItem
         title: 500k
