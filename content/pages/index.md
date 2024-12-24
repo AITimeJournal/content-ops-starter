@@ -99,7 +99,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: ''
+        subtitle: Attract new opportunities by building a credible personal brand
         text: ''
         image:
           url: /images/icon3.svg
