@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: ''
+        subtitle: Showcase your expertise with a professional online presence.
         text: ''
         actions: []
         elementId: null
