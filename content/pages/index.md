@@ -54,8 +54,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |
-          Showcase your expertise with a professional online presence.
+        text: ''
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
