@@ -96,7 +96,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/https://aifn.co/privacy-policy/",
+            "url": "https://aifn.co/privacy-policy/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
