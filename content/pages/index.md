@@ -154,7 +154,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/AI-TIme-Journal-Logo-Square-Transparent-01.png
-        altText: Wellster logo
+        altText: AITJ logo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
