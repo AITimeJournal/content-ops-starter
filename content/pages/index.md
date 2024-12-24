@@ -79,7 +79,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: Connect with like-minded professionals and grow your network.
         text: |
           Connect with like-minded professionals and grow your network.
         image:
