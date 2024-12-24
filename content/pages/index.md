@@ -153,7 +153,7 @@ sections:
       - altText: Vise logo
         type: ImageBlock
       - url: /images/2.svg
-        altText: AIFN logo
+        altText: AI Time Journal logo
         type: ImageBlock
       - altText: AI Time Journal logo
         type: ImageBlock
