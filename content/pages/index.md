@@ -155,7 +155,7 @@ sections:
       - url: /images/2.svg
         altText: AI Time Journal logo
         type: ImageBlock
-      - altText: AI Time Journal logo
+      - altText: AIFN logo
         type: ImageBlock
       - altText: Contentful logo
         type: ImageBlock
