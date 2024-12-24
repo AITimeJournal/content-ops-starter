@@ -157,6 +157,7 @@ sections:
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
+        url: /images/AI-TIme-Journal-Logo-Square-01-300x300.jpg
       - altText: Contentful logo
         type: ImageBlock
       - altText: Sanity logo
