@@ -52,7 +52,7 @@ sections:
     subtitle: Turn your knowledge into opportunities that build your reputation.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: ''
         text: |
           Showcase your expertise with a professional online presence.
