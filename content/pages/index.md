@@ -153,9 +153,6 @@ sections:
       - url: /images/ai_frontier_network_logo.jpeg
         altText: AIFN logo
         type: ImageBlock
-      - url: /images/AI-TIme-Journal-Logo-Square-Transparent-01.png
-        altText: AITJ logo
-        type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
