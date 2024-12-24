@@ -148,7 +148,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Our Partners
     images:
       - url: /images/ai_frontier_network_logo.jpeg
         altText: AIFN logo
