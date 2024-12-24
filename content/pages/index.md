@@ -78,7 +78,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: ''
         subtitle: Connect with like-minded professionals and grow your network.
         text: |
           Connect with like-minded professionals and grow your network.
