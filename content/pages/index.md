@@ -43,21 +43,18 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Turn your knowledge into opportunities that build your reputation.
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: ''
+        subtitle: Showcase your expertise with a professional online presence.
+        text: ''
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -76,16 +73,12 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: ''
+        subtitle: Connect with like-minded professionals and grow your network.
+        text: ''
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -105,12 +98,9 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: ''
+        subtitle: Attract new opportunities by building a credible personal brand
+        text: ''
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -139,7 +129,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -158,28 +148,21 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Our Partners
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - altText: Vise logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - url: /images/2.svg
+        altText: AI Time Journal logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - altText: AIFN logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+        url: /images/3.svg
+      - altText: Contentful logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - altText: Sanity logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -189,25 +172,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -219,7 +183,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Stand out in your field with a platform that works for you
       color: text-dark
       styles:
         self:
@@ -252,7 +216,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: ''
       color: text-primary
       styles:
         self:

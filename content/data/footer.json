@@ -62,7 +62,7 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://github.com/AITimeJourna",
             "icon": "github",
             "type": "Social"
         },
@@ -74,13 +74,13 @@
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/company/brandcircle-ai/about/?viewAsMember=true",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/info@brandcircle.ai",
             "icon": "mail",
             "type": "Social"
         }
@@ -88,7 +88,7 @@
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "/",
+            "url": "https://aifn.co/terms-conditions/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -96,7 +96,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "https://aifn.co/privacy-policy/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
