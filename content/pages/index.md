@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: |
           Showcase your expertise with a professional online presence.
         actions: []
