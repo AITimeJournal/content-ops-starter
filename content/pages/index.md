@@ -98,7 +98,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: ''
         subtitle: Attract new opportunities by building a credible personal brand
         text: ''
         image:
