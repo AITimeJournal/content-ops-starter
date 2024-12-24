@@ -157,6 +157,7 @@ sections:
         type: ImageBlock
       - altText: AIFN logo
         type: ImageBlock
+        url: /images/3.svg
       - altText: Contentful logo
         type: ImageBlock
       - altText: Sanity logo
