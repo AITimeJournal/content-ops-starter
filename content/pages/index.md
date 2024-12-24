@@ -80,8 +80,7 @@ sections:
               borderRadius: x-large
       - title: ''
         subtitle: Connect with like-minded professionals and grow your network.
-        text: |
-          Connect with like-minded professionals and grow your network.
+        text: ''
         image:
           url: /images/icon2.svg
           altText: Featured icon two
