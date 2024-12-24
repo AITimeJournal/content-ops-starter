@@ -155,7 +155,7 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/ai-time-journal-logo-og-1200x630.jpg
         altText: Telus logo
         type: ImageBlock
       - altText: Contentful logo
