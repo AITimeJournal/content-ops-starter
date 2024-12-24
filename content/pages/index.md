@@ -150,7 +150,7 @@ sections:
         textAlign: center
   - subtitle: Our Partners
     images:
-      - url: /images/ai_frontier_network_logo.jpeg
+      - url: /images/telus-logo.svg
         altText: AIFN logo
         type: ImageBlock
       - altText: Vise logo
